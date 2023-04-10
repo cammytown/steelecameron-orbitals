@@ -1,0 +1,3 @@
+[submodule "src/lib/orbital-arts"]
+	path = src/lib/orbital-arts
+	url = git@github.com:cammytown/orbital-arts.git
